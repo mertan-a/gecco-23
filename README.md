@@ -1,5 +1,5 @@
 # gecco-23
-Modular Controllers Facilitate the Co-Optimization of Morphology and Control in Soft Robots
+This repo contains the code for the paper [Modular Controllers Facilitate the Co-Optimization of Morphology and Control in Soft Robots](https://dl.acm.org/doi/abs/10.1145/3583131.3590416) ([arxiv](https://arxiv.org/abs/2306.09358))
 
 # citation
 
